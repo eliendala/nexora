@@ -1,0 +1,21 @@
+{
+  "name": "NEXORA — Agence Web Kolwezi (Version Gratuite)",
+  "short_name": "NEXORA",
+  "description": "Agence digitale à Kolwezi - Création de sites web qui ramènent des clients",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080B",
+  "theme_color": "#6C63FF",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/nexora-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
